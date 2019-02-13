@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaForums", "LambdaForums\LambdaForums.csproj", "{09803D1A-02F0-4FA8-BF44-767A70EF94AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaForums.Data", "LambdaForums.Data\LambdaForums.Data.csproj", "{C71A83E5-FA30-4FF9-888B-3CE45BAFADA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{09803D1A-02F0-4FA8-BF44-767A70EF94AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09803D1A-02F0-4FA8-BF44-767A70EF94AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09803D1A-02F0-4FA8-BF44-767A70EF94AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71A83E5-FA30-4FF9-888B-3CE45BAFADA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71A83E5-FA30-4FF9-888B-3CE45BAFADA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71A83E5-FA30-4FF9-888B-3CE45BAFADA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71A83E5-FA30-4FF9-888B-3CE45BAFADA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
